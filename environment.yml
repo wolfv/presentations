@@ -1,0 +1,11 @@
+name: xtensor
+channels:
+  - QuantStack
+  - damianavila82
+  - conda-forge
+dependencies:
+  - xtensor
+  - xtensor-blas
+  - xeus-cling
+  - notebook
+  - rise
